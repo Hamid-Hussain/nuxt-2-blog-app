@@ -1,4 +1,4 @@
-# my-first-react-app
+# Nuxt-2-blog-app
 
 ## Build Setup
 
